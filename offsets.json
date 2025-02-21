@@ -1,6 +1,6 @@
 {
     "offsets": {
-        "uworld": "0x16348C08",
+        "uworld": "0x174A8638",
         "relativelocation": "0x138",
         "owningworld": "0xC8",
         "acknowledgedpawn": "0x350",
@@ -8,9 +8,9 @@
         "rootcomponent": "0x1B0",
         "localplayers": "0x38",
         "playercontroller": "0x30",
-        "gameinstance": "0x1F8",
+        "gameinstance": "0x208",
         "pawnprivate": "0x320",
-        "gamestate": "0x180",
+        "gamestate": "0x190",
         "playerarray": "0x2C0",
         "playerstate": "0x2C8",
         "lastsubmittime": "0x150",
@@ -30,7 +30,7 @@
     },
     "weaponoffsets": {
         "currentweapon": "0x5C0",
-        "weapondata": "0x5E8",
+        "weapondata": "0x600",
         "ammocount": "0xFA4",
         "itemname": "0x40",
         "tier": "0x9B",
