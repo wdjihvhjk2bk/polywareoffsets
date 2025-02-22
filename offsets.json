@@ -13,8 +13,8 @@
         "gamestate": "0x190",
         "playerarray": "0x2C0",
         "playerstate": "0x2C8",
-        "lastsubmittime": "0x150",
-        "lastrendertime": "0x30C",
+        "lastsubmittime": "0x2E8",
+        "lastrendertime": "0x2F0",
         "velocity": "0x180",
         "bonearray": "0x5C8",
         "bonecache": "0x5B8",
@@ -29,7 +29,7 @@
         "username": "0xAF8"
     },
     "weaponoffsets": {
-        "currentweapon": "0x5C0",
+        "currentweapon": "0xa80",
         "weapondata": "0x600",
         "ammocount": "0xFA4",
         "itemname": "0x40",
